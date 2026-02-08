@@ -1,16 +1,25 @@
-## Hi there 👋
+## Nur A Jannat Shuchi
 
-<!--
-**shimizumizutani/shimizumizutani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning who I am by unlearning what I'm not.
 
-Here are some ideas to get you started:
+Currently exploring the fundamentals of AI and machine learning, where logic meets creativity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus Areas
+- Natural Language Processing
+- Computer Vision  
+- Data Science & Analytics
+
+### Working With
+`Python` `TensorFlow` `PyTorch` `Pandas` `NumPy` `Scikit-learn` `Jupyter`
+
+### Beyond Code
+When I'm not training models, I'm reading, writing, and exploring art & design. I believe the best AI solutions come from understanding both data and human experience.
+
+### Currently
+- Building foundational knowledge in ML algorithms
+- Working on personal projects to apply what I learn
+- Documenting my journey through code
+
+---
+
+*Walking the edge between reason and ruin*
