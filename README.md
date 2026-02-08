@@ -20,6 +20,6 @@ When I'm not training models, I'm reading, writing, and exploring art & design. 
 - Working on personal projects to apply what I learn
 - Documenting my journey through code
 
----
+
 
 *Walking the edge between reason and ruin*
